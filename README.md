@@ -32,7 +32,7 @@ A smart conversational banking assistant built with IBM Watson Assistant and dep
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/your-username/ibm-banking-bot.git
-cd ibm-banking-bot
+cd banking-bot
 ```
 2. Set Up Watson Assistant
 Go to IBM Watson Assistant.
@@ -58,3 +58,6 @@ Open WhatsApp.
 Send banking to your Twilio sandbox number.
 
 Follow the bot instructions.
+
+Live Demo : https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Fus-south.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-6df44c44-3073-4b94-b0fa-1ad943ff5bda%3A%3A7e6fa4d8-ad08-4410-ae6f-4919ddd02f14&integrationID=cf45dfb5-38cb-4d19-a138-8f7ec0de174d&region=us-south&serviceInstanceID=6df44c44-3073-4b94-b0fa-1ad943ff5bda
+
