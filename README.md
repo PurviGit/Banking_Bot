@@ -31,13 +31,13 @@ A smart conversational banking assistant built with IBM Watson Assistant and dep
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/banking-bot.git
-cd banking-bot
+git clone https://github.com/your-username/banking_bot.git
+cd banking_bot
 ```
 2. Set Up Watson Assistant
 Go to IBM Watson Assistant.
 
-Create a new assistant and import banking-bot-skill.json.
+Create a new assistant and import banking-bot-action-v1.json file.
 
 3. Set Up Twilio WhatsApp Sandbox
 Create a Twilio account.
