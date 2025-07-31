@@ -31,7 +31,7 @@ A smart conversational banking assistant built with IBM Watson Assistant and dep
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/Banking_Bot.git
+git clone https://github.com/PurviGit/Banking_Bot.git
 cd Banking_Bot
 ```
 2. Set Up Watson Assistant
