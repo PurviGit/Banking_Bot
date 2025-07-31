@@ -45,6 +45,7 @@ Create a Twilio account.
 Set up a WhatsApp Sandbox and configure the webhook.
 
 Link the sandbox number with the webhook URL.
+https://integrations.us-south.assistant.watson.appdomain.cloud/public/twiliowhatsapp/006eca65-26b6-48e7-98c2-74a076e7f346/message?version=2024-12-02
 
 4. Run Webhook (Example using Flask)
 bash
