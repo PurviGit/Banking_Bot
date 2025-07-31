@@ -61,3 +61,7 @@ Follow the bot instructions.
 
 Live Demo : https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Fus-south.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-6df44c44-3073-4b94-b0fa-1ad943ff5bda%3A%3A7e6fa4d8-ad08-4410-ae6f-4919ddd02f14&integrationID=cf45dfb5-38cb-4d19-a138-8f7ec0de174d&region=us-south&serviceInstanceID=6df44c44-3073-4b94-b0fa-1ad943ff5bda
 
+Connect to Whatsapp Sandbox
+<img width="1487" height="676" alt="Screenshot 2025-08-01 013933" src="https://github.com/user-attachments/assets/9ac81680-0841-43d2-b66f-d4cad156d377" />
+
+
